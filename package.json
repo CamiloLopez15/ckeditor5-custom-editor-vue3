@@ -1,10 +1,10 @@
 {
-  "name": "ckeditor5-custom-build",
-  "author": "CKSource",
-  "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
+  "name": "@ckeditor5-custom-vue3/custom-editor",
+  "author": "Camilo López",
+  "description": "A project with ckeditor 5 and vue 3 custom",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
-  "private": true,
+  "private": false,
   "main": "./build/ckeditor.js",
   "types": "./build/ckeditor.d.ts",
   "dependencies": {
