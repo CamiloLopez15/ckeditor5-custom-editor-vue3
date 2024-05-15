@@ -1,9 +1,9 @@
 {
-  "name": "@ckeditor5-custom-vue3/custom-editor",
+  "name": "@camilo__lp/custom-editor-vue3",
   "author": "Camilo López",
   "description": "A project with ckeditor 5 and vue 3 custom",
   "version": "0.0.1",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "MIT",
   "main": "./build/ckeditor.js",
   "types": "./build/ckeditor.d.ts",
   "dependencies": {
