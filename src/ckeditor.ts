@@ -22,7 +22,7 @@ import type { EditorConfig } from '@ckeditor/ckeditor5-core';
 import { Essentials } from '@ckeditor/ckeditor5-essentials';
 import { FindAndReplace } from '@ckeditor/ckeditor5-find-and-replace';
 import { FontBackgroundColor, FontColor, FontFamily, FontSize } from '@ckeditor/ckeditor5-font';
-import { Heading, Title } from '@ckeditor/ckeditor5-heading';
+import { Heading } from '@ckeditor/ckeditor5-heading';
 import { Highlight } from '@ckeditor/ckeditor5-highlight';
 import { DataSchema } from '@ckeditor/ckeditor5-html-support';
 import {
@@ -129,7 +129,7 @@ class Editor extends ClassicEditor {
 		TableToolbar,
 		TextPartLanguage,
 		TextTransformation,
-		Title,
+		// Title,
 		TodoList,
 		Underline,
 		Undo,
